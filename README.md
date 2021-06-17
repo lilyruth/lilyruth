@@ -7,4 +7,4 @@
 - 💜 As BTSARMY, I'm combining my library skills and web dev learning into a large project: [Index 0613](https://index0613.com). It's a work in progress and currently on version 2. 
 - ✨ I'm hoping to get involved in open source projects this year. 
 
-### 🐦 You can find me on [Twitter](https://twitter.com/ruthie_ynwa)! 
+### 🐦 Take a look at my portfolio! (https://ruthie.tech)! 
