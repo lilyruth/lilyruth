@@ -2,7 +2,7 @@
 
 ## 🌷 I'm Ruthie. Nice to meet you!
 
-### 🎓 I've earned a Bachelor of Art in Interdisciplinary Studies and a Master of Library Science, and I'm making the change to tech. 
+### 🎓 I've earned a Bachelor of Arts in Interdisciplinary Studies and a Master of Library Science, and I'm making the change to tech. 
 
 - I'm currently enrolled in the Cook Systems FastTrack bootcamp.
 - 💖 I graduated [Nucamp](https://nucamp.co) in November 2021. 
