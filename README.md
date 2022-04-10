@@ -7,7 +7,7 @@
  🤩 I'm currently enrolled in the [Cook Systems FastTrack](https://www.allaboutfasttrack.com) bootcamp.  
  💖 I graduated [Nucamp](https://nucamp.co) in November 2021.  
  🖥️ I earned some [freeCodeCamp](https://freecodecamp.org/ruthiec) certifications between 2020 and 2022.  
- 📈 I'm continuing my learning with [Codecademy](https://www.codecademy.com/users/LilyRuthC/achievements) & Udemy.   
+ 📈 I'm continuing my learning with [Codecademy](https://www.codecademy.com/profiles/lilyruthc) & Udemy.   
  🎓 My first career was in education. I earned a BA in Interdisciplinary Studies and a Master of Library Science.  
  ✨ I'm hoping to get involved in open source projects this year.   
 
