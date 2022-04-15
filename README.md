@@ -4,7 +4,6 @@
 
 ###  I'm working in JavaScript, React and Java. 
 
- 🤩 I'm currently enrolled in the [Cook Systems FastTrack](https://www.allaboutfasttrack.com) bootcamp.  
  💖 I graduated the [Nucamp](https://nucamp.co) Full Stack and Mobile development bootcamp in November 2021.  
  🖥️ I earned some [freeCodeCamp](https://freecodecamp.org/ruthiec) certifications between 2020 and 2022.  
  📈 I'm continuing my learning with [Codecademy](https://www.codecademy.com/profiles/lilyruthc) & Udemy.   
