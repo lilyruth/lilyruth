@@ -10,4 +10,4 @@
  🎓 My first career was in education. I earned a BA in Interdisciplinary Studies and a Master of Library Science and spent over a decade teaching, and learning through that teaching.  
  ✨ I'm hoping to get involved in open source projects this year.   
 
-### 🌟 Take a look at my [portfolio](https://ruthie.tech)! 
+### 🌟 Take a look at my [portfolio](https://ruthie-tech.netlify.app)! 
