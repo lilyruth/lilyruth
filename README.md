@@ -9,4 +9,4 @@
  📈 I'm continuing my learning with [Codecademy](https://www.codecademy.com/profiles/lilyruthc) & Udemy.   
  ✨ I'm hoping to get involved in open source projects this year.   
 
-### 🌟 Take a look at my [portfolio](https://ruthie-tech.netlify.app)! 
+### 🌟 Take a look at my [app](https://quotekeeper.io)! 
