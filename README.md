@@ -2,7 +2,7 @@
 
 ## 🌷 I'm Ruthie. Nice to meet you!
 
-###  I'm working in JavaScript, React and Java. 
+###  I'm working in Python (new!), JavaScript, React and Java. 
 
  💖 I graduated the [Nucamp](https://nucamp.co) Full Stack and Mobile development bootcamp in November 2021.  
  🖥️ I earned some [freeCodeCamp](https://freecodecamp.org/ruthiec) certifications between 2020 and 2022.  
