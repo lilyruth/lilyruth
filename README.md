@@ -2,10 +2,8 @@
 
 ## 🌷 I'm Ruthie. Nice to meet you!
 
-###  I'm working in Python (new!), JavaScript, React and Java. 
-
- 💖 I graduated the [Nucamp](https://nucamp.co) Full Stack and Mobile development bootcamp in November 2021.  
- 🖥️ I earned some [freeCodeCamp](https://freecodecamp.org/ruthiec) certifications between 2020 and 2022.  
- 📈 I'm continuing my learning with several resources.   
+ 💖 I'm a career changer who went from education and librarianship to software engineering.  
+ 🖥️ I work mostly in the data engineering world now, and as I am still ramping up I don't have a lot of time for personal projects.  
+ 📈 However I'm continuing my learning with several resources... and am hoping to make a sizeable dent in Advent of Code 2023!   
 
 
